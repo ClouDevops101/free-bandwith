@@ -3,8 +3,8 @@
 # Import os library
 import os
 from time import sleep
-hostname1 = "10.7.0.77" #Vision Clever III
-hostname2 = "10.7.0.17" #PS4
+hostname1 = "192.X.X.X" # change ip
+hostname2 = "192.X.X.X" # change ip
 application = "uTorrent" #example
 var = 7
 #curl  http://ipdeny.com/ipblocks/data/countries/fr.zone > FR_blocked_zone
